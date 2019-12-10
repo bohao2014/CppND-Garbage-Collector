@@ -1,4 +1,5 @@
 # CppND-Garbage-Collector
+# Bohao Liu
 The final project for this Memory Management course is to implement your own
 version of a smart pointer. You can think of this as implementing your own
 garbage collector, to use a concept from other programming languages. Building
